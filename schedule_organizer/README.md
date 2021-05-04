@@ -7,7 +7,7 @@ The Schedule Organizer asks for the schedule items for each day of the week. Aft
 
 When you have finished with a day's schedule items, press enter twice to move onto the next day's schedule.
 
-## <div style="color: red;">View Schedule</div>
+## View Schedule
 
 The schedule is now available for viewing.
 
